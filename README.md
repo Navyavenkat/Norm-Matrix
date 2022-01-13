@@ -29,7 +29,7 @@ print(b)
 
 ```
 ## Sample Input and Output:
-![GITHU LOGO](2norm)
+![GITHU LOGO](2norm.png)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
